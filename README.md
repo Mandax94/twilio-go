@@ -1,6 +1,6 @@
 # Cbonelo-AI
 
-[![Tests](https://github.com/twilio/twilio-go/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/MANDAX94/CBONELOAI-go/actions/workflows/test-and-deploy.yml)
+[![Tests](https://github.com/twilio/twilio-go/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/MANDAX94/CBONELOAI/actions/workflows/test-and-deploy.yml)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/twilio/twilio-go)](https://pkg.go.dev/github.com/twilio/twilio-go)
 [![Release](https://img.shields.io/github/release/twilio/twilio-go.svg)](https://github.com/twilio/twilio-go/releases/latest)
 
